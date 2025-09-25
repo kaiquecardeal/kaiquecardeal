@@ -24,7 +24,7 @@
 <div>
   <a href="https://beacons.ai/kaiquecardeal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquecardeal&show_icons=true&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecardeal&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecardeal&layout=compact&theme=dark"/>
 </div>
 
 ## My Skills
