@@ -15,7 +15,7 @@
  
 ######  println(" Sobre mim: Sou um estudante de Análise e Desenvolvimento de Sistemas com um forte interesse em desenvolvimento **Back-end**.  
 ######   Atuo na manutenção e atualização de softwares, com foco na correção de erros e melhorias que otimizem o funcionamento dos sistemas.
-###### Atualmente estou fazendo  ocurso: **IBM JAVA Developer**");
+###### Atualmente estou fazendo  o curso: **IBM JAVA Developer**");
   
 #### }
 
