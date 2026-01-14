@@ -24,6 +24,9 @@
    <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>
    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
+   <a href="https://dart.dev/" tagert=""_blank><img serc="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" target="_blank"></a>
+   <a href="https://flutter.dev/" tagert=""_blank><img serc="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
+   
   
 </div>
 
@@ -37,6 +40,7 @@
 <div>
  <a href="jetbrains.com/idea/download/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
  <a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+ <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic"></a>
 </div>
 
 ### Social Network
