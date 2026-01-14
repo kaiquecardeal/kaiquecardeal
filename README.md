@@ -19,14 +19,6 @@
   
 #### }
 
-##
-
-<div>
-  <a href="https://beacons.ai/kaiquecardeal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquecardeal&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecardeal&layout=compact&theme=dark"/>
-</div>
-
 ## My Skills
 <div>
    <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>
